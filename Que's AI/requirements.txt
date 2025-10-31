@@ -1,4 +1,5 @@
 streamlit
 pandas
 numpy
+base64
 scikit-learn
